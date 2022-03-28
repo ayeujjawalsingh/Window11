@@ -287,7 +287,6 @@ header{
     /* width: 100px; */
     height: 60px;
     /* background-color: green; */
-    /* background-color: green; */
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -362,7 +361,6 @@ header{
     /* grid-template-rows: repeat(auto-fit, minmax(120px , 0fr)); */
     /* grid-column: 1fr 1fr; */
     /* justify-content: center; */
-    /* margin: auto; */
     width: 100px;
     height: 90vh;
     margin-top: 10px;
@@ -397,7 +395,6 @@ iframe{
     height: 432px;
     margin: auto;
     display: flex;
-    /* align-items: center; */
     top: 25%;
     left: 25%;
     /* transform: translate(-100% , -100%); */
