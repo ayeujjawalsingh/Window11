@@ -1,5 +1,3 @@
-<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Windows11" alt="Visitor badge"/>
-
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Ujjawal! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
 I'm a Computer Science Student Engineering Student, & I'm confident to work on the projects with my own experience & skills...
